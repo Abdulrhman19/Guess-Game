@@ -1,0 +1,16 @@
+D:\Abdulrhman\Documents\Backup\Tutorials\C#\GuessGame\bin\Debug\net5.0\GuessGame.exe
+D:\Abdulrhman\Documents\Backup\Tutorials\C#\GuessGame\bin\Debug\net5.0\GuessGame.deps.json
+D:\Abdulrhman\Documents\Backup\Tutorials\C#\GuessGame\bin\Debug\net5.0\GuessGame.runtimeconfig.json
+D:\Abdulrhman\Documents\Backup\Tutorials\C#\GuessGame\bin\Debug\net5.0\GuessGame.runtimeconfig.dev.json
+D:\Abdulrhman\Documents\Backup\Tutorials\C#\GuessGame\bin\Debug\net5.0\GuessGame.dll
+D:\Abdulrhman\Documents\Backup\Tutorials\C#\GuessGame\bin\Debug\net5.0\ref\GuessGame.dll
+D:\Abdulrhman\Documents\Backup\Tutorials\C#\GuessGame\bin\Debug\net5.0\GuessGame.pdb
+D:\Abdulrhman\Documents\Backup\Tutorials\C#\GuessGame\obj\Debug\net5.0\GuessGame.csprojAssemblyReference.cache
+D:\Abdulrhman\Documents\Backup\Tutorials\C#\GuessGame\obj\Debug\net5.0\GuessGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abdulrhman\Documents\Backup\Tutorials\C#\GuessGame\obj\Debug\net5.0\GuessGame.AssemblyInfoInputs.cache
+D:\Abdulrhman\Documents\Backup\Tutorials\C#\GuessGame\obj\Debug\net5.0\GuessGame.AssemblyInfo.cs
+D:\Abdulrhman\Documents\Backup\Tutorials\C#\GuessGame\obj\Debug\net5.0\GuessGame.csproj.CoreCompileInputs.cache
+D:\Abdulrhman\Documents\Backup\Tutorials\C#\GuessGame\obj\Debug\net5.0\GuessGame.dll
+D:\Abdulrhman\Documents\Backup\Tutorials\C#\GuessGame\obj\Debug\net5.0\ref\GuessGame.dll
+D:\Abdulrhman\Documents\Backup\Tutorials\C#\GuessGame\obj\Debug\net5.0\GuessGame.pdb
+D:\Abdulrhman\Documents\Backup\Tutorials\C#\GuessGame\obj\Debug\net5.0\GuessGame.genruntimeconfig.cache

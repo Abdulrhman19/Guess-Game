@@ -1,0 +1,23 @@
++ STEPS:
+    1- Ask the user for difficulty level 
+    and store it in a variable.
+    2- Make a decision based on level:
+        if level is 1:
+            range = 25
+        if level is 2:
+            range is 50
+        if level is 3:
+            range = 100
+    3- define a var called number which hold a random integer in range.
+    4- Define a temp var to handle user guessing inputs.
+    5- Make a decision based on temp variable:
+        if temp > number:
+            print "To high"
+        if temp < number:
+            print "To low"
+        if temp == number:
+            print "You got it, congratulations"
+    6- ask the user if they want to play more or terminate the game.
+    7- if they want, then ask if they would play with the same difficulty level.
+    8- redo all the steps above.
+
